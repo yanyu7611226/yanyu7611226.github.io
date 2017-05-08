@@ -257,6 +257,12 @@
 	/* background: white; */
 	float: right;
 }
+.sousuolan input{
+	border: none;
+}
+.sousuolan input:focus{
+	outline: none;
+}
 .sousuolan{
 	width: 259px;
 	height: 27px;
@@ -424,7 +430,7 @@
 	height: 43px;
 	/* background-color:  green; */
 	margin-top: 12px;
-	background: url('../img/logo18546.png') no-repeat;
+	background: url('../img/logo.png') no-repeat;
 	margin-right: 50px;
 	float: left;
 }
